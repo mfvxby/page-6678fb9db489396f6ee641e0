@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "644274c7cc4b279a54958c6a",
+  "owner": "mfvxby",
+  "repo": "page-6678fb9db489396f6ee641e0",
+  "title": "XLM",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6678fb9db489396f6ee641e0",
+      "a": "XLM",
+      "b": "2027官方最新地址导航",
+      "entity": "XLM",
+      "brand": "XLM",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "04105b16d204f33d844a5ff71c6d8828bf287d663a0b8e5291e3e1f0e34a3050",
+      "content": {
+        "primary_entity": "XLM",
+        "keyword1": "XLM",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，导入 XLM 订阅链接后即可连接使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "按设备与流量需求选定套餐，导入订阅即可体验海外网络加速。",
+          "AI_CLOSING_TITLE": "开始使用 XLM",
+          "AI_DESCRIPTION": "，XLM 提供基础版、旗舰版与团队版三档海外网络加速订阅，月付与年付可选，流量从每月 100GB 到 1000GB，设备数覆盖 3 台至 20 台。订阅通过通用客户端导入配置即可使用，适合个人流媒体、游戏加速与小型团队协同场景。",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度与订阅周期三个维度选择合适的 XLM 套餐。",
+          "AI_FEATURES_TITLE": "套餐与使用方式",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台设备同时在线。",
+          "AI_FEATURE_TEXT_2": "100GB、300GB 与 1000GB 三档月流量，旗舰版提供 IPLC 专线游戏加速。",
+          "AI_FEATURE_TEXT_3": "月付与年付均可选，年付价格低于按月支付，适合长期使用用户。",
+          "AI_FEATURE_TITLE_1": "套餐按设备数区分",
+          "AI_FEATURE_TITLE_2": "流量与节点匹配",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "先确定套餐，再查看设备适配要求，最后按对应客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "XLM 是面向跨境访问的海外加速器品牌，提供多档位订阅套餐与多平台客户端订阅配置。用户可根据设备数量、月流量需求与使用周期选择合适的方案，按客户端文档导入订阅后即可连接使用。",
+          "AI_HERO_SUBTITLE": "XLM 海外网络加速订阅",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "年付方案约为月付价格的 83%",
+          "AI_HIGHLIGHT_3": "支持流媒体与游戏专线优化",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按设备和流量需求选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，从基础版、旗舰版或团队版中选定一档并完成订阅。",
+          "AI_STEP_TEXT_2": "确认所用设备的系统版本与客户端是否支持导入订阅链接，并核对在线设备数量限制。",
+          "AI_STEP_TEXT_3": "在所选客户端中导入 XLM 订阅地址，更新节点列表后选择线路连接。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "XLM 加速订阅",
+          "AI_FAQ_ANSWER_1": "基础版适合手机与电脑轻度使用，每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备，带 IPLC 专线游戏加速优化；团队版每月 1000GB、20 台设备，适合多人多终端。按年付价格为 ¥150/年、¥350/年、¥850/年。",
+          "AI_FAQ_ANSWER_2": "不同客户端对订阅格式的支持有差异。先按设备系统选择对应客户端，再依客户端文档导入订阅链接。若导入后节点未出现，可检查链接是否完整、客户端版本是否过旧。",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。可按日常需要同时连接的手机、电脑和平板数量来选择，避免设备数不够来回切换。",
+          "AI_FAQ_ANSWER_4": "按年付比月付更省：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。若只是短期试用，可先选月付；确定长期使用再转年付。",
+          "AI_FAQ_ANSWER_5": "先确认设备系统和数量，再对照套餐的流量、设备数与线路类型。轻度使用选基础版，游戏或流媒体需求高选旗舰版，多人共享选团队版。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版该怎么选？",
+          "AI_FAQ_QUESTION_2": "订阅链接导入客户端失败怎么办？",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量如何计算？",
+          "AI_FAQ_QUESTION_4": "月付和年付哪个更划算？",
+          "AI_FAQ_QUESTION_5": "如何判断自己需要哪个套餐？",
+          "AI_FAQ_TITLE": "套餐与订阅常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "aayaclv.cn",
+    "host": "aayaclv.cn"
+  },
+  "file_hashes": {
+    "index.html": "0138a92cca055e0301f37d965d225bb4bbfce1adde36414e0cc49f769cc685ae",
+    "sitemap.xml": "fc849e42f2208a3b99530e118b18997554d4d41d942d708381a612a139642605",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8541965a325ef45b76bd1a7480ecdb06ae9a16e234177e44a3bfb799486320d5",
+    "robots.txt": "0d5f1122b6e459a5d333a91ccfcc96caf4ef3fab93a98096d03dd7f28ee20427",
+    "112624d947543207517dfb03a1384ef6.txt": "716f77ef13ab6d60a769c2a71625a7e138104775145d09929b30f7273c765624"
+  },
+  "revision": "e07a0acd5858a2102664494e11fb0c0508dfb80947ccf80cada54013f27b9e99"
+}
